@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maria Jorgelina Pestalardo</h1>
+<h1 align="center">Hi 👋, **I'm Maria Jorgelina Pestalardo**</h1>
 <h3 align="center">I'm a Backend PHP - Laravel Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorpestalardo&label=Profile%20views&color=0e75b6&style=flat" alt="jorpestalardo" /> </p>
