@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Maria Jorgelina Pestalardo</h1>
-<h3 align="center">I'm a Backend PHP - Laravel Developer</h3>
+<h3 align="center">I'm a Fullstack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorpestalardo&label=Profile%20views&color=0e75b6&style=flat" alt="jorpestalardo" /> </p>
 
-- 🔭 I’m currently working on **WebSites Freelancers for a Band called "Reynas del Vapor" and another project about Beauty Market.**
+- 🔭 I’m currently working on **WebSites Freelancers you can see some of my proyects in this github.**
 
-- 🌱 I’m currently learning **Angular and improving Vue.js**
+- 🌱 I’m currently learning **Svelte**
 
-- 👯 I’m looking to collaborate on **New web projects as a Laravel backend developer**
+- 👯 I’m looking to collaborate on **New web projects as a Laravel backend developer or as a frontend developer**
 
 - 🤝 I’m looking for help with **improves my skills working with a team !**
 
-- 💬 Ask me about **technologies like PHP - Laravel - Vue.js**
+- 💬 Ask me about **technologies like PHP - Laravel - JavaScript -  Vue.js - React.js **
 
 - 📫 How to reach me **jorpestalardo@gmail.com**
 
