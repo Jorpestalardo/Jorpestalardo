@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **improves my skills working with a team !**
 
-- 💬 Ask me about **technologies like PHP - Laravel - JavaScript -  Vue.js - React.js **
+- 💬 Ask me about **technologies like PHP - Laravel - JavaScript -  Vue.js - React.js !**
 
 - 📫 How to reach me **jorpestalardo@gmail.com**
 
